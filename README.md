@@ -9,7 +9,7 @@ In short, this is like a normal Tetris game, but the pieces are not made of 4 bl
 ![Pentominoes](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/All_18_Pentominoes.svg/1200px-All_18_Pentominoes.svg.png)
 
 
-Moreover, it has an AI included (inspired in [this site](https://codemyroad.wordpress.com/2013/04/14/tetris-ai-the-near-perfect-player/)), which uses heuristics to make decisions during the game.
+Moreover, it has a functioning bot (inspired by [this website](https://codemyroad.wordpress.com/2013/04/14/tetris-ai-the-near-perfect-player/)), which uses heuristics to make decisions during the game.
 
 It can be played using the following controls:  
  - <kbd>RIGHT ARROW</kbd>: move 1 unit to the right  
