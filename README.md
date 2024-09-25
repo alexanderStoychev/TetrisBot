@@ -1,6 +1,5 @@
 # PentriX
 
-<img src="/imgs/screenshot.png" alt="Thumbnail" width="45%"/>
 
 This game was made for the Project 1 - Part 2, from the Bachelor in Computer Science, Maastricht University.  
 
