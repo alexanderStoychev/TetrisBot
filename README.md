@@ -2,8 +2,8 @@
 
 <img src="/imgs/screenshot.png" alt="Thumbnail" width="45%"/>
 
-This game was made for the Project 1 - Part 2, from the Bachelor in Data Science and Knowledge Engineering and Maastricht University.  
-The code is written by Lucas Giovanni Uberti-Bona Marin, Silvia Fallone, Antonio Rodriguez, Sarah Waseem, Pierre Bongrand, and me.
+This game was made for the Project 1 - Part 2, from the Bachelor in Computer Science, Maastricht University.  
+
 
 In short, this is like a normal Tetris game, but the pieces are not made of 4 blocks but 5, called pentominoes.
 
