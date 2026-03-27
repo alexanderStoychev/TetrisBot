@@ -3,9 +3,6 @@ import javax.swing.*;
 
 /**
 A class to create a Frame on the screen
-@author Sarah Waseem
-@author Lucas Uberti-Bona
-@version 0.13, 20 Oct 2017
 */
 public class Window extends JFrame {
 

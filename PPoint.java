@@ -1,7 +1,5 @@
 /**
 A class in order to represent a point in the screen
-@author Antonio Rodríguez
-@version 0.29, 8 Dec 2017
 */
 public class PPoint {
 

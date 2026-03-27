@@ -6,10 +6,6 @@ import java.lang.Thread;
 
 /**
 A class to manage all the Pentominoes present in the Canvas (not deposited)
-@author Silvia Fallone
-@author Julián Marrades
-@author Pierre Bongrand
-@version 0.89, 1 Dec 2017
 */
 public class Piece implements PInfo {
 

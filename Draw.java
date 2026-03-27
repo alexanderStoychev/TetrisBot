@@ -4,8 +4,6 @@ import java.awt.Color;
 
 /**
 A class to draw the minoes on the screen
-@author Julián Marrades
-@version 0.14, 21 Oct 2017
 */
 public class Draw implements PInfo {
 

@@ -3,8 +3,6 @@ import java.lang.Thread;
 
 /**
 A class to represent the Bot that plays PentriX
-@author Julián Marrades
-@version 0.58, 13 Dec 2017
 */
 public class Bot implements PInfo {
 

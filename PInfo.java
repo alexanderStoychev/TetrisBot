@@ -2,8 +2,6 @@ import java.awt.Color;
 
 /**
 An interface holding the settings for the PentriX game
-@author Silvia Fallone
-@version 0.38, 19 Oct 2017
 */
 public interface PInfo {
 

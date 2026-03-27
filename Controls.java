@@ -3,8 +3,6 @@ import java.awt.event.KeyEvent;
 
 /**
 A class to control the Pentomino falling
-@author Lucas Uberti-Bona
-@version 0.22, 4 Dec 2017
 */
 public class Controls implements KeyListener {
 

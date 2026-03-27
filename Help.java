@@ -2,8 +2,6 @@ import java.util.ArrayList;
 
 /**
 A class to keep general static methods that help procedures
-@author Julián Marrades
-@version 0.22, 5 Dec 2017
 */
 public class Help {
 

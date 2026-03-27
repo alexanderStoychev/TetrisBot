@@ -6,9 +6,6 @@ import java.awt.event.ActionListener;
 
 /**
 A class to represent a canvas
-@author Lucas Uberti-Bona
-@author Sarah Waseem
-@version 0.38, 20 Oct 2017
 */
 public class PCanvas extends Canvas implements PInfo {
 

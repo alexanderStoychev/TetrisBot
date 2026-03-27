@@ -1,11 +1,5 @@
 /**
 A class to represent a virtual board in order to guess which possible move is the best
-@author Silvia Fallone
-@author Sarah Waseem
-@author Lucas Uberti-Bona
-@author Antonio Rodríguez
-@author Julián Marrades
-@version 0.46, 5 Dec 2017
 */
 public class VBoard implements PInfo {
 
