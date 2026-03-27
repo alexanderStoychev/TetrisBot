@@ -1,8 +1,5 @@
 /**
 A class to hold the position of the minoss of the Pentominoes, and their name
-@author Silvia Fallone
-@author Julián Marrades
-@version 0.62, 3 Dec 2017
 */
 
 public class Pentomino implements PInfo {

@@ -7,9 +7,6 @@ import java.util.ArrayList;
 
 /**
 A class to represent a 2D board
-@author Antonio Rodríguez
-@author Julián Marrades
-@version 0.24, 25 Oct 2017
 */
 public class Board implements PInfo {
 

@@ -3,8 +3,6 @@ import java.awt.event.ActionEvent;
 
 /**
 The timer listener to move the Pentomino down automatically
-@author Sarah Waseem
-@version 0.11, 27 Oct 2017
 */
 public class TimerListener implements ActionListener {
 

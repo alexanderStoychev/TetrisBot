@@ -1,8 +1,6 @@
 /**
 Class to run the game
-@author Antonio Rodríguez
-@author Julián Marrades
-@version 0.13, 20 Oct 2017
+
 */
 public class Game implements PInfo {
 

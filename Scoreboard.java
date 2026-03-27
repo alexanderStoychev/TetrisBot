@@ -14,9 +14,6 @@ import java.util.ArrayList;
 
 /**
 A class to represent a scoreboard
-@author Lucas Uberti-Bona
-@author Julián Marrades
-@version 0.03, 2 Dec 2017
 */
 public class Scoreboard implements PInfo {
 
